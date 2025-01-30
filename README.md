@@ -1,0 +1,3 @@
+**Towards an Energy Consumption Index for Deep Learning Models**  
+
+This study introduces an energy consumption index for Deep Learning (DL) models, evaluating their energy efficiency across various architectures. We analyze training and inference energy consumption for AlexNet, ResNet18, VGG16, EfficientNet-B3, ConvNeXt-T, and Swin Transformer using TITAN XP and GTX 1080 GPUs. Energy measurements are obtained via OpenZmeter (v2) and software-based tools like CarbonTracker (v1.2.5) and CodeCarbon (v2.4.1). The findings highlight significant efficiency variations across models and GPUs, supporting standardized energy assessments for AI sustainability.
